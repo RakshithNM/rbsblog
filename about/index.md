@@ -7,4 +7,4 @@ eleventyNavigation:
   order: 3
 ---
 
-I am a person that writes stuff.
+Senior Software Engineer with 4+ years of experience. More about me at https://rakshithbellare.in
